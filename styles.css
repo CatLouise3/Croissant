@@ -1,0 +1,41 @@
+body {
+  background: #d08d52;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.contact,
+.homepage,
+.photo {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  color: beige;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+}
+
+img {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 15px;
+}
